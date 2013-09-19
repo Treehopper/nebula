@@ -1,3 +1,3 @@
 [submodule "widgets/visualization"]
 	path = widgets/visualization
-	url = git@github.com:Treehopper/visualization.git
+	url = https://github.com/Treehopper/visualization.git
