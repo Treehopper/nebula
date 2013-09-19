@@ -12,9 +12,7 @@
 		<tycho-version>0.18.0</tycho-version>
 		<tests.vmargs></tests.vmargs>
 		<!-- Properties to enable jacoco code coverage analysis in Sonar -->
-		<!-- 
 		<sonar.core.codeCoveragePlugin>jacoco</sonar.core.codeCoveragePlugin>
-		-->
 		<sonar.dynamicAnalysis>reuseReports</sonar.dynamicAnalysis>
 		<!-- When running in children tests/* modules, all reports will be in ../target/jacoco.exec -->
 		<sonar.jacoco.reportPath>../target/jacoco.exec</sonar.jacoco.reportPath>
